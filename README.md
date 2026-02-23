@@ -86,9 +86,9 @@ No additional setup required.
 
 Ravindu Gunarathne
 
-    Software Engineering Undergraduate
-    
-    IT Professional
+Software Engineering Undergraduate
+
+IT Professional
 
 ## 📌 License
 
