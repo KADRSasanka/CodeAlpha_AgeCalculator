@@ -84,11 +84,12 @@ No additional setup required.
 
 ## 👨‍💻 Author
 
-Ravindu Gunarathne
+---
 
-Software Engineering Undergraduate
+**Ravindu Gunarathne**  
+Software Engineering Undergraduate | IT Professional  
 
-IT Professional
+---
 
 ## 📌 License
 
