@@ -27,16 +27,18 @@ This application calculates the exact age in Years, Months, and Days based on a 
 
 ## 📂 Project Structure
 
-
-Age-Calculator/
+```text
+Age-Calculator
 │
-├── index.html
-├── style.css
-├── script.js
-├── Icons/
-│ └── calculator.png
-└── README.md
-
+├── index.html        # Main UI
+├── style.css         # Styling & animations
+├── script.js         # Age calculation logic
+│
+├── Icons
+│   └── calculator.png
+│
+└── README.md         # Project documentation
+```
 
 ---
 
