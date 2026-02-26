@@ -1,4 +1,4 @@
-# 🎂 Age Calculator Web App
+#  Age Calculator Web App
 
 A modern and responsive Age Calculator built using HTML, CSS, Bootstrap, and JavaScript.  
 This application calculates the exact age in Years, Months, and Days based on a user's birth date.
@@ -7,12 +7,12 @@ This application calculates the exact age in Years, Months, and Days based on a 
 
 ## 🚀 Features
 
-- ✅ Calculates precise age (Years, Months, Days)
-- ✅ Validates future dates
-- ✅ Smooth result animation
-- ✅ Modern dark UI design
-- ✅ Responsive layout (Mobile & Desktop)
-- ✅ Clean and structured code
+-  Calculates precise age (Years, Months, Days)
+-  Validates future dates
+-  Smooth result animation
+-  Modern dark UI design
+-  Responsive layout (Mobile & Desktop)
+-  Clean and structured code
 
 ---
 
@@ -59,11 +59,6 @@ The calculation handles:
 
 ---
 
-## 📸 Screenshots
-
-
----
-
 ## ▶️ How To Run Locally
 
 1. Clone the repository:
@@ -78,11 +73,11 @@ No additional setup required.
 
 ## 🌍 Future Improvements
 
-* 🎂 Birthday countdown feature
-* 📅 Total days lived
-* 🌗 Dark/Light mode toggle
-* ⏱️ Live running age counter
-* 🎉 Confetti animation on birthday
+*  Birthday countdown feature
+*  Total days lived
+*  Dark/Light mode toggle
+*  Live running age counter
+*  Confetti animation on birthday
 
 ## 👨‍💻 Author
 
